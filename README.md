@@ -1,2 +1,4 @@
 # Telugu-TechRoy
-hello testing
+github account : mail2uve
+
+.tech : yuvarajstudent@o
